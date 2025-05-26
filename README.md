@@ -1,11 +1,15 @@
 # Utilização de Técnicas de Machine Learning para predizer campos que são obrigatórios o preenchimento no Sales Force
 
-## Exeplicação do mini Projeto
+## Explicação do Projeto
 
 - Na criação de casos no Sales Force é obrigatório o preenchimento dos seguintes campos: Corpo(Feed), Produto relacionado, Motivo do contato, Ação necessária, Diagnóstico do problema
 - O software serve para, no momento em que você copia o relatório criado pelo analista no Feed e cola em um determinado campo do programa, os campos Produto relacionado, Motivo do contato, Ação necessária e Diagnóstico do problema são sugeridos ao clicar em Analisar
 
 ### Artefato 1
+
+![Screenshot_1](https://github.com/user-attachments/assets/9001b919-689a-4f41-a0af-2035cce6c9d3)
+
+
 - Utilização da técnica Randon Forest
 - Questões a serem abordadas:
   - Precisamos mapear todos os setores que utilizam a ferramenta
