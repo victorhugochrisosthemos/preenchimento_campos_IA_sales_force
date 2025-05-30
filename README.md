@@ -20,6 +20,7 @@
 - Sobre os registros considerados, foi selecionado analista que demonstram um boa frequência de preenchimento correto dos dados no Sales Force
 - Precisa realizar testes para definir a acurácia
 - Foi gerado um executável a fim de demonstrar os resultados a equipes da Intelbras
+- Foi realizado alguns testes e falta consistência melhorar a predição do modelo
 
 ### Artefato 2
 
@@ -28,3 +29,7 @@
 
 - Utilização de Redes Neurais
 - Problemas relacionados à processamento de dados ainda persiste, precisamos organizar os dados
+- Precisa ser realizado testes
+- Melhorar o dataset com registros de outros analistas para não ficar viciado o modelo somente nos casos de um indivíduo
+- Ajustar valore de BIAS, camadas de neurônios e épocas
+- Cuidar com a acurácia do modelo
