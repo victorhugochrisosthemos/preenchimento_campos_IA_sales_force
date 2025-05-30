@@ -33,3 +33,4 @@
 - Melhorar o dataset com registros de outros analistas para não ficar viciado o modelo somente nos casos de um indivíduo
 - Ajustar valore de BIAS, camadas de neurônios e épocas
 - Cuidar com a acurácia do modelo
+- Não foi gerado um executável
